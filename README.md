@@ -58,3 +58,31 @@ Additionally, because text sizes are fixed, readers might need to zoom in to rea
 Different editors have different formats.
 Because WYSIWYG editors support many features, those formats are often complex and frequently pose compatibility issues.
 Editing documents using different software can result in many annoyances, such as harmful unexpected formatting changes.
+
+## Web technologies
+
+As an alternative, the web provides the HTML and CSS open formats, which can be used to publish documents.
+
+With HTML and CSS, authors can write content that adapts to most reading mediums, such as phones and computers, but also for print.
+
+However, many consider authoring HTML and CSS directly tedious and difficult.
+Alternatives such as Markdown require less syntax, so you can write:
+
+```markdown
+# This is a header
+
+And this is a paragraph.
+```
+
+instead of:
+
+```html
+<h1>This is a header</h1>
+
+<p>And this is a paragraph.</p>
+```
+
+A massive variety of tools and techniques exist to write documents based on web technologies.
+I know no combination that I can recommend to everyone for all situations, so this document gives an overview of the landscape to encourage you to do your research.
+Unfortunately, overcoming the problems with traditional WYSIWYG document editors requires some effort.
+In my opinion, for people writing even a modest amount of documents, investing effort in finding a workflow that works for them will be worthwhile.
