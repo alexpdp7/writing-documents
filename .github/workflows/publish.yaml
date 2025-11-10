@@ -18,7 +18,7 @@ jobs:
       - run: mkdir output
       - uses: docker://docker.io/pandoc/core:latest
         with:
-          args: README.md -o output/index.html
+          args: README.md -o output/index.html --standalone
       - uses: actions/upload-pages-artifact@v4
         with:
           path: ./output
