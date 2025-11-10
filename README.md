@@ -1,6 +1,13 @@
 # Writing documents
 
-This document describes common challenges when writing documents and proposes different processes to write documents.
+This document describes common challenges when writing documents and discusses alternative approaches.
+This document does not intend to provide a complete authoring process because too many different scenarios exist to provide a simple answer.
+
+This document is an example of these alternative approaches, demonstrating how:
+
+* Anyone can propose edits by using GitHub by visiting <https://github.com/alexpdp7/writing-documents/edit/main/README.md>.
+  (You can also submit suggestions to the email address in my GitHub profile if you do not wish to use GitHub.)
+* You can configure automatic publishing to the web, visible at <https://alexpdp7.github.io/writing-documents/>.
 
 ## The problems
 
